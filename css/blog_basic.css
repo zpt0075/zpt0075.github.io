@@ -397,7 +397,7 @@ dl dt {
                 position: relative;
                 padding: 25px 0;
                 border-bottom: 1px solid rgba(150, 150, 150, 0.2);
-                *border-bottom: 1px solid #f0f0f0; }
+                border-bottom: 1px solid #f0f0f0; }
                 #fb_comments_container #fb_comments .comment .avatar {
                   position: absolute;
                   top: 25px;
@@ -442,7 +442,7 @@ dl dt {
     padding: 5px;
     font-size: 1em;
     border: 1px solid rgba(150, 150, 150, 0.5);
-    *border: 1px solid #a8a8a8;
+    border: 1px solid #a8a8a8;
     line-height: 1.5; }
     #fb_new_comment .comment_error {
       color: red;
@@ -471,7 +471,7 @@ dl dt {
               #fb_new_comment .input_body ul li {
                 float: left;
                 margin-right: 2.2%;
-                *margin-right: 22px; }
+                margin-right: 22px; }
                 #fb_new_comment .input_body ul li label {
                   line-height: 1em; }
                   #fb_new_comment .input_body ul li input {
